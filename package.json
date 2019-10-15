@@ -1,0 +1,24 @@
+{
+  "name": "acwe-accessibility-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "report": "node report.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moritztrh/acwe-accessibility-testing.git"
+  },
+  "author": "Moritz Trah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moritztrh/acwe-accessibility-testing/issues"
+  },
+  "homepage": "https://github.com/moritztrh/acwe-accessibility-testing#readme",
+  "dependencies": {
+    "pa11y": "^5.2.0"
+  }
+}
